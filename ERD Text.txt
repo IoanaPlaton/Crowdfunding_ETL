@@ -1,0 +1,21 @@
+campaign
+-
+cf_id INTEGER PK 
+contact_id INTEGER 
+category_id VARCHAR 
+subcategory_id VARCHAR 
+-
+
+category
+-
+category_id VARCHAR PK FK -< campaign.category_id
+-
+
+subcategory
+-
+subcategory_id VARCHAR PK FK -< campaign.subcategory_id
+-
+
+contacts
+-
+contact_id INTEGER PK FK - campaign.contact_id

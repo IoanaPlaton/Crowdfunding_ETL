@@ -135,6 +135,8 @@ For more information about how to add the "category_id" and "subcategory_id" uni
 # Support and Resources
 Your instructional team will provide support during classes and office hours. You will also have access to learning assistants and tutors to help you with topics as needed. Make sure to take advantage of these resources as you collaborate with your partner on this project.
 
-Referenced class speedrun for option 2 solution to get extra pratice running the code.
-Referenced class speedrun for Crowdfunding Database jupyter notebook coding
-Referenced SQL week work for ERD and Schema layouts
+Referenced class speedrun for option 2 regrex solution to get extra pratice running regex code.
+
+Referenced class speedrun for ETL import code of Crowdfunding Database (SQL) into jupyter notebook.
+
+Referenced SQL/SQLAlchemy challenges and practice examples for ERD, Schema layouts, and imports.
